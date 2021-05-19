@@ -3,7 +3,7 @@ content-type: application/json
 
 {
     "_id": "6076b05eaa8cb22c2c643883",
-    "name":"Nicolas",
+    "name":"Laurent",
     "city": "Paris",
     "skills":[
         {"title":"HTML", "votes":5},
